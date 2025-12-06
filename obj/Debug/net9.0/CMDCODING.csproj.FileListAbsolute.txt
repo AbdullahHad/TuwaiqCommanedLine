@@ -1,0 +1,14 @@
+C:\Users\Abdul\OneDrive\Desktop\gitTuwaiq\Projects\exmaple\CMDCODING\bin\Debug\net9.0\CMDCODING.exe
+C:\Users\Abdul\OneDrive\Desktop\gitTuwaiq\Projects\exmaple\CMDCODING\bin\Debug\net9.0\CMDCODING.deps.json
+C:\Users\Abdul\OneDrive\Desktop\gitTuwaiq\Projects\exmaple\CMDCODING\bin\Debug\net9.0\CMDCODING.runtimeconfig.json
+C:\Users\Abdul\OneDrive\Desktop\gitTuwaiq\Projects\exmaple\CMDCODING\bin\Debug\net9.0\CMDCODING.dll
+C:\Users\Abdul\OneDrive\Desktop\gitTuwaiq\Projects\exmaple\CMDCODING\bin\Debug\net9.0\CMDCODING.pdb
+C:\Users\Abdul\OneDrive\Desktop\gitTuwaiq\Projects\exmaple\CMDCODING\obj\Debug\net9.0\CMDCODING.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdul\OneDrive\Desktop\gitTuwaiq\Projects\exmaple\CMDCODING\obj\Debug\net9.0\CMDCODING.AssemblyInfoInputs.cache
+C:\Users\Abdul\OneDrive\Desktop\gitTuwaiq\Projects\exmaple\CMDCODING\obj\Debug\net9.0\CMDCODING.AssemblyInfo.cs
+C:\Users\Abdul\OneDrive\Desktop\gitTuwaiq\Projects\exmaple\CMDCODING\obj\Debug\net9.0\CMDCODING.csproj.CoreCompileInputs.cache
+C:\Users\Abdul\OneDrive\Desktop\gitTuwaiq\Projects\exmaple\CMDCODING\obj\Debug\net9.0\CMDCODING.dll
+C:\Users\Abdul\OneDrive\Desktop\gitTuwaiq\Projects\exmaple\CMDCODING\obj\Debug\net9.0\refint\CMDCODING.dll
+C:\Users\Abdul\OneDrive\Desktop\gitTuwaiq\Projects\exmaple\CMDCODING\obj\Debug\net9.0\CMDCODING.pdb
+C:\Users\Abdul\OneDrive\Desktop\gitTuwaiq\Projects\exmaple\CMDCODING\obj\Debug\net9.0\CMDCODING.genruntimeconfig.cache
+C:\Users\Abdul\OneDrive\Desktop\gitTuwaiq\Projects\exmaple\CMDCODING\obj\Debug\net9.0\ref\CMDCODING.dll
